@@ -13,3 +13,4 @@ pymongo==3.12.3
 djangorestframework==3.14.0
 dnspython==2.2.1
 sqlparse==0.2.4
+whitenoise==6.8.2
