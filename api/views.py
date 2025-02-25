@@ -2114,4 +2114,4 @@ def welcomeView(request):
 
 @superuser_auth
 def test(request):
-    return HttpResponse("<h1>Welcome to feedback portal</h1>")
+    return HttpResponse("<h1>Welcome to feedback portal server side</h1>")
